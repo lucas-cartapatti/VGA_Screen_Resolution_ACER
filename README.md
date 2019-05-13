@@ -1,0 +1,1 @@
+# VGA_Screen_Resolution_ACER
