@@ -8,3 +8,5 @@
 Make sure your VGA screen supports the resolution on the script, if it doesn't, you'll need to change it too***
 
 To see whats the screen name type `xrandr --listmonitors`
+By default the files belongs to owner and group `root` ... It's easy to solve it: `sudo chown $USER:$USER *`
+
